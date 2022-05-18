@@ -1,1 +1,1 @@
-clinet_secret_id="138dd384-ab12-4dfc-9b2b-65607a7c9665"
+clinet_secret_id="no6wA~T-s_u1Cj~C~t9gLy37tCLUY1ZvEl"
